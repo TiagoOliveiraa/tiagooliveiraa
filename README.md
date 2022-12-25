@@ -11,7 +11,7 @@ Stay tune for updates, since i will put here all my projects.
 
 Objectives for 2022/2023:
 #---#
-Learn Python
+:snake:Learn Python
 Create Projects with Python:
  - Telegram Assistant;
  - League Of Legends Discord Bot.
