@@ -12,11 +12,13 @@ Stay tune for updates, since i will put here all my projects.
 Objectives for 2022/2023:
 
 :snake:Learn Python
+
 Create Projects with Python:
  - Telegram Assistant;
  - League Of Legends Discord Bot.
 
 Learn Django
+
 Create Projects with Django:
  - ToDoApp with team tasks;
  - A website to publish my discord bot;
