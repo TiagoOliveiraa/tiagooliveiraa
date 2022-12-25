@@ -11,17 +11,23 @@ One of my goals is to build something mine from my countless ideas and mainly ha
 Stay tune for updates, since i will put here all my projects. 😅
 
 
-Objectives for 2022/2023:
+🏁 Objectives for 2022/2023:
 
-🐍 Learn Python
+🐍 Learn Python ✔️*
 
 Create Projects with Python:
- - Telegram Assistant;
+ - Telegram Assistant; ✔️
  - League Of Legends Discord Bot.
 
-🦎 Learn Django
+🦎 Learn Django ✔️*
 
 Create Projects with Django:
- - ToDoApp with team tasks;
+ - ToDoApp with team tasks; 
  - A website to publish my discord bot;
  - Simple eCommerce Website.
+
+
+
+
+
+ \*Learning new things everyday
