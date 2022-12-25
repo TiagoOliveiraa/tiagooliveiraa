@@ -1,6 +1,6 @@
-# Hey! I'm Tiago Oliveira.
+# Hey! I'm Tiago Oliveira. :pt:
 
-## Computer Engineer.
+## :computer: Computer Engineer.
 
 ### Currently working as a sysadmin on a consultant company in Coimbra,Portugal.
 
