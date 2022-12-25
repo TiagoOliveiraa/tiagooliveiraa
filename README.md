@@ -1,7 +1,12 @@
 # Hey! I'm Tiago Oliveira. 🇵🇹
 
 ## 💻 Computer Engineer.
-
+<br>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoOliveiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoOliveiraa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 ### Currently working as a sysadmin on a consultant company in Coimbra,Portugal.
 
 I'm learning Backend Develop tools, focused now in python/django framework, going next to javascript.
@@ -26,7 +31,10 @@ Create Projects with Django:
  - A website to publish my discord bot;
  - Simple eCommerce Website.
 
-
+<div style="display: inline_block">
+<img widht="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img widht="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/tree/icons/ansible/ansible-original.svg">
+</div>
 
 
 
