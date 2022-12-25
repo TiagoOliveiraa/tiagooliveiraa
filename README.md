@@ -4,7 +4,7 @@
 
 ### Currently working as a sysadmin on a consultant company in Coimbra,Portugal.
 
-I'm trying to learn Software/Web developing tools, but im focused now in learning python/django framework, planning to learn next javascript.
+I'm learning Backend Develop tools, focused now in python/django framework, going next to javascript.
 
 One of my goals is to build something mine from my countless ideas and mainly have fun with that.
 
