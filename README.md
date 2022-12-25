@@ -13,11 +13,11 @@ Objectives for 2022/2023:
 #---#
 Learn Python
 Create Projects with Python:
- 1. Telegram Assistant;
- 2. League Of Legends Discord Bot.
+ - Telegram Assistant;
+ - League Of Legends Discord Bot.
 
 Learn Django
 Create Projects with Django:
- 1. ToDoApp with team tasks;
- 2. A website to publish my discord bot;
- 3. Simple eCommerce Website.
+ - ToDoApp with team tasks;
+ - A website to publish my discord bot;
+ - Simple eCommerce Website.
