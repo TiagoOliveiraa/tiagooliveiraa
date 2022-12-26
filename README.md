@@ -15,6 +15,7 @@ One of my goals is to build something mine from my countless ideas and mainly ha
 
 Stay tune for updates, since i will put here all my projects. 😅
 
+##
 
 🏁 Objectives for 2022/2023:
 
@@ -31,6 +32,8 @@ Create Projects with Django:
  - A website to publish my discord bot;
  - Simple eCommerce Website.
 
+##
+
 <div style="display: inline_block">
  <br>
  <br>
@@ -45,6 +48,6 @@ Create Projects with Django:
 </div>
 
 
-
+##
 
  \*Learning new things everyday
