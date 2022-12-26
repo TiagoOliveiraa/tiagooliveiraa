@@ -32,9 +32,18 @@ Create Projects with Django:
  - Simple eCommerce Website.
 
 <div style="display: inline_block">
-<img widht="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img widht="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/tree/icons/ansible/ansible-original.svg">
+ <br>
+ <br>
+ <img widht="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img widht="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+ <img widht="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg">
+ <img widht="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
+ <img widht="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
+ <img widht="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
+ <br>
+ <br>
 </div>
+
 
 
 
