@@ -28,9 +28,9 @@ Create Projects with Python:
 🦎 Learn Django ✔️*
 
 Create Projects with Django:
- - ToDoApp with team tasks; 
- - A website to publish my discord bot;
- - Simple eCommerce Website.
+ - ToDoApp with team tasks; ✔️
+ - - Simple eCommerce Website;
+ - A website to publish my discord bot.
 
 ##
 
