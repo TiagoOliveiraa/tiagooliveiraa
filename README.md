@@ -29,7 +29,7 @@ Create Projects with Python:
 
 Create Projects with Django:
  - ToDoApp with team tasks; ✔️
- - - Simple eCommerce Website;
+ - Simple eCommerce Website;
  - A website to publish my discord bot.
 
 ##
