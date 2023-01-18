@@ -9,7 +9,7 @@
  
 ### Currently working as a sysadmin on a consultant company in Coimbra,Portugal.
 
-I'm learning Backend Develop tools, focused now in python/django framework, going next to javascript.
+I'm learning Backend Develop tools, taking now a course of backend web developing, with focus now in javascript and javascript frameworks.
 
 One of my goals is to build something mine from my countless ideas and mainly have fun with that.
 
@@ -29,6 +29,8 @@ Create Projects with Python:
 
 Create Projects with Django:
  - ToDoApp with team tasks; ✔️
+
+Another Project Ideas:
  - Simple eCommerce Website;
  - A website to publish my discord bot.
 
