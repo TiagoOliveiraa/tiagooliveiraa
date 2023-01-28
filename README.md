@@ -36,18 +36,21 @@ Another Project Ideas:
 
 ##
 
-<div style="display: inline_block">
+<div style="display: inline-block;">
  <br>
  <br>
  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
- <img width="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg">
  <img width="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
  <img width="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
  <img width="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img width="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg">
  <img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+ 
+ ##
+ <img width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+ <img width="30" height="30" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg">
+ <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
  
  <br>
  <br>
