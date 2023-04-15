@@ -17,7 +17,7 @@ Stay tune for updates, since i will put here all my projects. 😅
 
 ##
 
-🏁 Objectives for 2022/2023:
+🏁 Objectives for 2023:
 
 🐍 Learn Python ✔️*
 
