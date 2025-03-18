@@ -8,7 +8,7 @@
  
 I'm a Web Developer passionate about technology and software development. I love building projects from scratch, continuously learning, and deploying applications that make a difference. My main focus is on full-stack development, working primarily with:
 
-🔹 Languages & Frameworks: Python, Ruby, JavaScript, TypeScript, React, Vue, HTML, CSS
+🔹 Languages & Frameworks: Python, Ruby, JavaScript, TypeScript, React, Vue, Angular, HTML, CSS
 
 🔹 Other Technologies: Git, Unit Testing, Agile Methodologies
 
